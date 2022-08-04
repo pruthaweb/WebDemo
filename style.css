@@ -1,0 +1,26 @@
+#navdocs{
+    color: black;
+    font-family: cursive;
+    margin-left: 10px;
+    
+}
+#navdocs:hover{
+    color:gray;
+    font-family: cursive;
+}
+.fa-solid{
+    color: gray;
+    margin-right: 5px;
+    
+}
+#navdemo{
+    margin-left: 580px;
+    font-family: cursive;
+    
+}
+#navdemo:hover{
+    color: gray;
+}
+#iconimg{
+    margin-right: 9px;
+}
